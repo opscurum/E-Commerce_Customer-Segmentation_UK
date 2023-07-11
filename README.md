@@ -94,3 +94,8 @@ For more details and code implementation, please refer to the Jupyter Notebook o
 ---
 
 Feel free to customize this README template according to your project's specific details and requirements. Include relevant sections such as installation instructions, usage examples, or any other information that would be helpful for users or contributors.
+
+
+
+
+This project has been organized with the purpose of supporting F. Daniel's project. It is entirely intended for educational purposes.
